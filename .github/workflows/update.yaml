@@ -28,3 +28,4 @@ jobs:
           git add --renormalize src/update.md
           git commit -m "Updated commit date badge"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/KhaylaPaws/Kreations.git HEAD:main
+          git add -A
