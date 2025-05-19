@@ -1,4 +1,4 @@
-![Last Commit](.github/workflows/update.md)
+![Last Commit](src/update.md)
 ![Lint Status](https://github.com/your-username/your-repo/actions/workflows/lint.yml/badge.svg)
 ![Code Style](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
 

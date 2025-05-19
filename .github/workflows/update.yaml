@@ -18,12 +18,14 @@ jobs:
         run: echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
 
       - name: Update Badge File
-        run: echo "![](https://img.shields.io/badge/Last%20Commit-${{ env.LAST_COMMIT_DATE }}-blue)" > .github/workflows/update.md
+        run: echo "![](https://img.shields.io/badge/Last%20Commit-${{ env.LAST_COMMIT_DATE }}-blue)" > src/update.md
 
       - name: Commit and Push Badge Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add .github/workflows/update.md
+          git add src/update.md
           git commit -m "Updated commit date badge"
-          git push
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/KhaylaPaws/Kreations.git HEAD:main
