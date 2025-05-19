@@ -1,0 +1,27 @@
+name: Update Badge with Commit Date
+
+on:
+  push:
+    branches:
+      - main  # Runs when changes are pushed to the main branch
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get Latest Commit Date
+        run: echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
+
+      - name: Update Badge File
+        run: echo "![](https://img.shields.io/badge/Last%20Commit-${{ env.LAST_COMMIT_DATE }}-blue)" > badge.md
+
+      - name: Commit and Push Badge Update
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add badge.md
+          git commit -m "Updated commit date badge"
+          git push
