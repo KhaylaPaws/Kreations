@@ -17,8 +17,8 @@ jobs:
       - name: Get Latest Commit Date
         run: echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
 
-      - name: Update Badge File
-        run: echo "![](https://img.shields.io/badge/Last%20Commit-${{ env.LAST_COMMIT_DATE }}-blue)" > src/update.md
+      - name: Get Latest Commit Date
+        run: echo "LAST_COMMIT_DATE=$(git log -1 --date=format:'%Y-%m-%d' --format=%cd | sed 's/ /%20/g')" >> $GITHUB_ENV
 
       - name: Commit and Push Badge Update
         env:
