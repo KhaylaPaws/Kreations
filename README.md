@@ -1,7 +1,7 @@
-![Last Updated](https://img.shields.io/github/last-updated/khaylapaws/kreations)
-![Firefox](https://img.shields.io/badge/✓-Firefox-orange)
-![Chrome](https://img.shields.io/badge/✓-Chrome-blue)
-![Socials](https://img.shields.io/badge/🔗-www.khaylapaws.com-green)
+![Last Update](https://img.shields.io/github/last-commit/khaylapaws/kreations)
+![Firefox](https://img.shields.io/badge/Firefox-✓-green)
+![Chrome](https://img.shields.io/badge/Chrome-✓-green)
+![Socials](https://img.shields.io/badge/www.khaylapaws.com-🔗-green)
 
 ![Last Commit](src/update.md)
 ![Lint Status](https://github.com/your-username/your-repo/actions/workflows/lint.yml/badge.svg)
