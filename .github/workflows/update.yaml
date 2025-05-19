@@ -1,4 +1,5 @@
-name: Update Badge with Commit Date
+ - name: Update Badge File
+   run: echo "![](https://img.shields.io/badge/Last%20Commit-${{ env.LAST_COMMIT_DATE }}-blue)" > src/update.md && echo "" >> src/update.md
 
 on:
   push:
@@ -13,9 +14,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Get Latest Commit Date
-        run: echo "LAST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
 
       - name: Get Latest Commit Date
         run: echo "LAST_COMMIT_DATE=$(git log -1 --date=format:'%Y-%m-%d' --format=%cd | sed 's/ /%20/g')" >> $GITHUB_ENV
