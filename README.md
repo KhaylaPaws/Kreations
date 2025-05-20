@@ -1,6 +1,9 @@
-![Badge Error](https://img.shields.io/github/last-commit/khaylapaws/kreations)
-![Last Updated](https://badgen.net/github/last-commit/khaylapaws/kreations)
-![Last Updated](https://badgers.io/badge/Last%20Updated-Today-blue)
+![Flat](https://badgen.net/github/last-commit/khaylapaws/kreations?style=flat)
+![Flat-Square](https://badgen.net/github/last-commit/khaylapaws/kreations?style=flat-square)
+![Plastic](https://badgen.net/github/last-commit/khaylapaws/kreations?style=plastic)
+![For-the-Badge](https://badgen.net/github/last-commit/khaylapaws/kreations?style=for-the-badge)
+![Social](https://badgen.net/github/last-commit/khaylapaws/kreations?style=social)
+
 ![Bade Error](https://img.shields.io/badge/Firefox-✓-green)
 ![Chrome](https://img.shields.io/badge/Chrome-✓-green)
 ![Socials](https://img.shields.io/badge/www.khaylapaws.com-🔗-green)
