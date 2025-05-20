@@ -1,5 +1,7 @@
-![Last Update](https://img.shields.io/github/last-commit/khaylapaws/kreations)
-![Firefox](https://img.shields.io/badge/Firefox-✓-green)
+![Badge Error](https://img.shields.io/github/last-commit/khaylapaws/kreations)
+![Last Updated](https://badgen.net/github/last-commit/khaylapaws/kreations)
+![Last Updated](https://badgers.io/badge/Last%20Updated-Today-blue)
+![Bade Error](https://img.shields.io/badge/Firefox-✓-green)
 ![Chrome](https://img.shields.io/badge/Chrome-✓-green)
 ![Socials](https://img.shields.io/badge/www.khaylapaws.com-🔗-green)
 
