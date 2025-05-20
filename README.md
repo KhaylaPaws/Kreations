@@ -1,26 +1,16 @@
-![Flat](https://badgen.net/github/last-commit/khaylapaws/kreations?style=flat)
-![Flat-Square](https://badgen.net/github/last-commit/khaylapaws/kreations?style=flat-square)
-![Plastic](https://badgen.net/github/last-commit/khaylapaws/kreations?style=plastic)
-![For-the-Badge](https://badgen.net/github/last-commit/khaylapaws/kreations?style=for-the-badge)
-![Social](https://badgen.net/github/last-commit/khaylapaws/kreations?style=social)
+![Last Commit](https://badgen.net/badge/Last%20Commit/Updated/pink?icon=github)
+[![Visit Website](https://badgen.net/badge/Website/Open/pink?icon=github)]
+[![Changelog](https://badgen.net/badge/Changelog/View/pink?icon=github)]
+[![Documentation](https://badgen.net/badge/Docs/Read/pink?icon=github)]
+[![License](https://badgen.net/badge/License/MIT/pink?icon=github)]
 
-![Bade Error](https://img.shields.io/badge/Firefox-✓-green)
-![Chrome](https://img.shields.io/badge/Chrome-✓-green)
-![Socials](https://img.shields.io/badge/www.khaylapaws.com-🔗-green)
+![Responsive](https://badgen.net/badge/Supports/Any%20Device/pink?icon=github)
+![JS Optional](https://badgen.net/badge/JavaScript/Optional/pink?icon=github)
+![Secure Site](https://badgen.net/badge/Secure/SSL%20Enabled/pink?icon=github)
+![Browser Support](https://badgen.net/badge/Supports/All%20Browsers/pink?icon=github)
 
-![Last Commit](src/update.md)
-![Lint Status](https://github.com/your-username/your-repo/actions/workflows/lint.yml/badge.svg)
-![Code Style](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
 
-![Optional JavaScript](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
-![Supports All Screen Sizes](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
-![Https, SSL, and DDoS Secure](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
 
-![License](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
-![Changelog](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
-![Documentation](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
-
-![Socials](https://github.com/your-username/your-repo/actions/workflows/code-style.yml/badge.svg)
 
 # KhaylaPaws Keations
 this is the source of my website, www.khaylapaws.me :3
