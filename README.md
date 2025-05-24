@@ -1,8 +1,8 @@
-![Last Commit](https://badgen.net/badge/Last%20Commit/Updated/pink?link=https://github.com/KhaylaPaws/Kreations)
-![Visit Website](https://badgen.net/badge/Website/Open/pink?link=https://khaylapaws.me/)
-![Changelog](https://badgen.net/badge/Changelog/View/pink?link=https://github.com/KhaylaPaws/Kreations/blob/main/CHANGELOG.md)
-![Documentation](https://badgen.net/badge/Docs/Read/pink?icon=githublink=https://github.com/KhaylaPaws/Kreations/blob/main/DOCUMENTATION.md)
-![License](https://badgen.net/badge/License/MIT/pink?icon=githublink=https://github.com/KhaylaPaws/Kreations/blob/main/LICENSE)
+[![Last Commit](https://badgen.net/badge/Last%20Commit/Updated/pink?)](https://github.com/KhaylaPaws/Kreations)
+[![Visit Website](https://badgen.net/badge/Website/Open/pink?)](https://khaylapaws.me)
+[![Changelog](https://badgen.net/badge/Changelog/View/pink?)](https://github.com/KhaylaPaws/Kreations/blob/main/CHANGELOG.md)
+[![Documentation](https://badgen.net/badge/Docs/Read/pink?)](https://github.com/KhaylaPaws/Kreations/blob/main/DOCUMENTATION.md)
+[![License](https://badgen.net/badge/License/MIT/pink?)](https://github.com/KhaylaPaws/Kreations/blob/main/LICENSE)
 
 # KhaylaPaws Keations
 this is the source of my website, www.khaylapaws.me :3
@@ -29,7 +29,7 @@ This license **applies only to this repository**. And while attribution is not r
 Any and all content—including but not limited to artwork, code, and writing—that exists **outside** of this repository is **not** covered by CC0 and remains fully protected under copyright law and its respective licenses.
 This includes, but is not limited to, other content created by me or anyone else, content referenced in any way within this repository, and any content shown on any website deployed with this repository.
 
-Veiw full license here: [license](./license)
+Veiw full license here: [license](https://github.com/KhaylaPaws/Kreations/blob/main/LICENSE)
 
 # Documentation
 
